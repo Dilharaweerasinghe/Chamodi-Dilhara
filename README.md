@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
-- 🌱 I’m currently learning MERN Stack project and Registration system using PHP
+- 🌱 I’m currently developing e-commerce platform using MERN and developing Registration system using PHP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
